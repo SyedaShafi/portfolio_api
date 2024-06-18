@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-c4j+e5wmr59%x0k%0ng5n25+uyc^$+xseh&qe=+4nvxk-659ao
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-# CSRF_TRUSTED_ORIGINS = ['live link domain',  'https://*.127.0.0.1' ]
+CSRF_TRUSTED_ORIGINS = ['https://portfolio-api-my47.onrender.com',  'https://*.127.0.0.1' ]
 
 
 # Application definition
