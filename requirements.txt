@@ -4,7 +4,7 @@ certifi
 crispy-bootstrap5
 distlib
 dj-database-url
-Django
+Django==3.2.20 
 django-cors-headers
 django-crispy-forms
 django-email
